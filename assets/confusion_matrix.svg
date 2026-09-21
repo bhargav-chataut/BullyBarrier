@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="860" viewBox="0 0 980 860">
+  <rect width="980" height="860" fill="#ffffff"/>
+  <text x="55" y="58" font-family="Arial, sans-serif" font-size="34" font-weight="600" fill="#111827">Predict on the test set and evaluate</text>
+  <text x="55" y="110" font-family="monospace" font-size="18" fill="#111827">Classification Report</text>
+  <text x="55" y="145" font-family="monospace" font-size="16" fill="#111827">              precision    recall  f1-score   support</text>
+  <text x="55" y="175" font-family="monospace" font-size="16" fill="#111827">0                0.91      0.97      0.94       118</text>
+  <text x="55" y="205" font-family="monospace" font-size="16" fill="#111827">1                0.60      0.35      0.44        17</text>
+  <text x="55" y="245" font-family="monospace" font-size="16" fill="#111827">accuracy                              0.89       135</text>
+  <text x="55" y="275" font-family="monospace" font-size="16" fill="#111827">macro avg          0.76      0.66      0.69       135</text>
+  <text x="55" y="305" font-family="monospace" font-size="16" fill="#111827">weighted avg       0.87      0.89      0.88       135</text>
+
+  <text x="255" y="375" font-family="Arial, sans-serif" font-size="24" fill="#111827">Confusion Matrix - Logistic Regression</text>
+
+  <rect x="180" y="410" width="280" height="210" fill="#173f7a"/>
+  <rect x="460" y="410" width="280" height="210" fill="#eef4fa"/>
+  <rect x="180" y="620" width="280" height="180" fill="#e7eff8"/>
+  <rect x="460" y="620" width="280" height="180" fill="#f5f8fc"/>
+
+  <text x="320" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#ffffff">114</text>
+  <text x="600" y="525" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#173f7a">4</text>
+  <text x="320" y="720" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#173f7a">11</text>
+  <text x="600" y="720" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" fill="#173f7a">6</text>
+
+  <text x="320" y="835" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#111827">0</text>
+  <text x="600" y="835" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#111827">1</text>
+  <text x="460" y="855" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#111827">Predicted label</text>
+
+  <text x="145" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#111827">0</text>
+  <text x="145" y="710" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#111827">1</text>
+  <text x="95" y="615" text-anchor="middle" transform="rotate(-90 95 615)" font-family="Arial, sans-serif" font-size="18" fill="#111827">True label</text>
+</svg>

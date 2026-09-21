@@ -4,6 +4,14 @@
 
 This repository contains a full machine learning pipeline for analyzing social media posts to detect **self-harm** and **abuse-related content**, with a focus on identifying **false positives** and **false negatives** in classification results.
 
+## Model Evaluation
+
+<p align="center">
+  <img src="assets/confusion_matrix.svg" width="100%" alt="BullyBarrier logistic regression classification report and confusion matrix">
+</p>
+
+The Logistic Regression model reached 89% test accuracy. The confusion matrix above shows 114 true negatives, 4 false positives, 11 false negatives, and 6 true positives.
+
 ---
 
 ## 📌 Objective
